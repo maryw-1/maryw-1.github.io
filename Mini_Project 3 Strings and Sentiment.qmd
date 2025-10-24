@@ -2,7 +2,7 @@
 title: "Sentiment Analysis on Obama and Trump Tweets"
 sidebar: false
 format:
-  pdf: default
+  html: default
 editor_options: 
   chunk_output_type: console
 ---

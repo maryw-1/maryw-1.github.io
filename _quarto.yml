@@ -7,18 +7,17 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - file: Mini Project 3 Strings and Sentiment
+        text: "Home"
+      - file: Mini_Project 3 Strings and Sentiment.qmd
         text: "String Analysis"
         
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
+    code-overflow: wrap
 
 editor: visual
 
