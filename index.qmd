@@ -1,11 +1,15 @@
 ---
-title: "maryw-1.github.io"
+title: "Mary W"
+toc: false
+about:
+  template: jolla
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/mary-w-7302a4284/
+    - text: GitHub
+      href: https://github.com/maryw-1
+    - text: Email
+      href: mailto:mwu2024@gmail.com
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+A place for all my R Projects.
