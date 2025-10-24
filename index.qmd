@@ -1,7 +1,6 @@
 ---
 title: "Mary W"
 toc: false
-about:
   template: jolla
   links: 
     - text: LinkedIn
