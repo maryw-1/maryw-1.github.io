@@ -8,7 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - file: Mini Project 3 Strings and Sentiment
+        text: "String Analysis"
+        
 
 format:
   html:
