@@ -15,7 +15,7 @@ website:
       - file: US_States_and_Minimum_Wage.qmd
         text: "Minimum Wage in the United States"
       - file: Mini Project Simulations.qmd
-        text: "Mini Project - Simulations"
+        text: "Mini Project 2 - Simulations"
         
 
 format:
