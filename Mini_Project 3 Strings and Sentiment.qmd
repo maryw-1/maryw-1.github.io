@@ -251,7 +251,7 @@ Again, similar to the last graph, notice how it seems like Trump's sentiment sco
 
 Although it was fun and interesting to perform sentiment analysis on both President Obama and President Trump, we have to remember that all of these words are taken out of context. Even though it seems like one president has a higher sentiment score, it might not be a reality. If I were to do a similar kind of sentiment analysis in the future, I would definitely include phrases such as their campaign slogans. It would have been more interesting to see if there were certain phrases that they would say, or even mention a particular country a significant amount. Also it is important to notice that the results of the analysis is very skewed because Trump tweeted far more than Obama, which might make it appear like one person had a higher sentiment score than the other.
 
-## References:
+## Citations:
 
 -   [Obama Tweets:](https://www.kaggle.com/datasets/neelgajare/all-12000-president-obama-tweets)
 -   [Trump Tweets:](https://www.kaggle.com/datasets/zusmani/trumps-legacy)
