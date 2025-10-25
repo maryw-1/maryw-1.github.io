@@ -36,7 +36,7 @@ ontario_gas |>
   summarise(mean_gas = mean(east_toronto))
 ```
 
-From this output, it seems like before 2010, the mean gas price in east was aroung 63.2 Canadian dollars, and gas prices after 2010 was around 106 Canadian dollars.
+From this output, it seems like before 2010, the mean gas price in east was around 63.2 Canadian dollars, and gas prices after 2010 was around 106 Canadian dollars.
 
 Now that we verified that our new dataset works, let us create a function such that we are able to easily explore the different years and regions within Ontario. However, remember that in this simulation, we are only interested in the regions of West and East Toronto.
 
