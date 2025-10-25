@@ -180,6 +180,3 @@ fed_minimum_wage_2020 |>
 
 Although the minimum wage increased throughout the years in response to the minimum quality of life threshold; we have to realize that just because workers are being paid minimum wage that does not mean they have a decent quality of life. There are certain states where individuals are still not being paid enough.
 
-### Citations:
-
-[Minimum Wage Data](https://www.kaggle.com/datasets/lislejoem/us-minimum-wage-by-state-from-1968-to-2017)
